@@ -1,0 +1,5 @@
+*.slxc
+*.autosave
+slprj/
+_ert_rtw/
+*.mat  # Optional: Keep this if you want to exclude large data files, but keep small ones.
