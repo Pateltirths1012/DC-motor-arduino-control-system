@@ -6,3 +6,9 @@ This project implements a complete mechatronic control system for a DC gearmotor
 - **Hardware integration**: Constructed a custom circuit using an Arduino Uno R3, L293D Dual H-bridge, and a Polulu 172:1 metal Gearmotor with a 48 CPR quadrature encoder.
 - **Closed-Loop Control**: Implemented real-time Proportional $(K_p)$ control algorithms for both **Speed** and **Position** tracking, reducing error between the potentiometer reference and encoder feedback.
 - **System Identification**: Performed open-loop step response experiments to estimate the motor's transfer function, DC-gain, and time constant. 
+
+---
+
+[`Reports`](./Reports)
+
+- Check the reports folder where each part of the project, its execution and its description is given in detail.
