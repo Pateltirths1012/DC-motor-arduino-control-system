@@ -12,3 +12,11 @@ This project implements a complete mechatronic control system for a DC gearmotor
 [`Reports`](./Reports)
 
 - Check the reports folder where each part of the project, its execution and its description is given in detail.
+
+---
+<video src="https://github.com/user-attachments/assets/bcb3e333-a1bb-4b9f-9ecb-d1aee6259156" controls width="100%"></video>
+
+
+
+
+
